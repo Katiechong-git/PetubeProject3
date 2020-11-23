@@ -6,6 +6,8 @@ Welcome to Petube and watch cute animal videos! We are a web streaming applicati
 
 In the homepage, you can see all of our curated videos. You can just watch the videos on the homepage. If you want to get interactive, you can click the title of the video you’re interested, which will bring you to the video’s own page. Once you registered and logged in, you can add comments and likes to express your opinion about the video!
 
+** Added feature in this version: delete your own comments.
+
 ### Screenshot
 
 ![](img/screenshot1.png)
