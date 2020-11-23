@@ -47,7 +47,7 @@ This project is under MIT license.
 
 ### Instruction to Build
 
-The database is on MongoDB Atlas and the website is hosted on heroku here. To install and run, do the following:
+The database is on MongoDB Atlas, to install and run, do the following (note you may need to contact us to get MongoDB Atlas url to run locally):
 
 git clone
 
