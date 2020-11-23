@@ -17,21 +17,15 @@ In the homepage, you can see all of our curated videos. You can just watch the v
 The database is on MongoDB Atlas and the website is hosted on heroku here. To install and run, do the following:
 Note you may need to contact us to get our MongoDB database url.
 
-git clone
+npm install
 
-cd Petube
-
-yarn install
-
-yarn start
+npm start
 
 cd front
 
-yarn install
+npm install
 
-yarn build
-
-yarn start
+npm start
 
 ### Project Objective
 
