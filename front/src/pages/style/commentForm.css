@@ -1,0 +1,22 @@
+body {
+  /* font-family: "Lato"; */
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  /* font-family: "Catamaran"; */
+  font-weight: 800 !important;
+}
+
+.comment-form {
+  /* border: 1px solid rgba(0,0,0,.125); */
+  /* border-radius: .25rem; */
+}
+.comment-form h3 {
+  font-size: 1rem;
+  color: #333;
+}

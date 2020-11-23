@@ -1,0 +1,9 @@
+.carousel {
+    height: 700px;
+}
+
+.bg-item-slide {
+    height: 700px;
+    background-size: cover;
+    background-position: center;
+}

@@ -1,0 +1,25 @@
+body {
+  /* font-family: "Lato"; */
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  /* font-family: "Catamaran"; */
+  font-weight: 800 !important;
+}
+
+.comment-item {
+  border: 2px solid #d6dee0;
+  border-left: 5px solid #d6dee0;
+  transition: background-color .2s ease-out,border .2s ease-out;
+  margin-bottom: 1rem;
+  padding: 1rem;
+}
+.comment-item:hover {
+  border-color: #666;
+  border-left-color: #666;
+}
