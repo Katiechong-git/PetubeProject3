@@ -9,6 +9,8 @@ import "./style/navigation-bar.css";
 // import HomeOutlined from "@ant-design/icons";
 //import "./style/antStyle.less";
 
+// When I throw the website in axe, it shows that your nagvigation bar needs to have sufficient color contrast 
+// Maybe you can change the background and foreground color to improve the contrast
 class NavigationBar extends React.Component {
   constructor(props) {
     super(props);
