@@ -11,6 +11,11 @@ import axios from "axios";
 import { Carousel } from "react-bootstrap";
 // import SwiperImage from "./SwiperImage.js";
 
+// When I use axe on the website, it shows there are not enough color contrast between text and your background
+// I think its because your background is mostly images, so its hard for axe to recognize its background color
+// maybe you can consider changing a background color in your css file?
+// In addtion, make sure that for every page you have a main landmark and level 1 heading for more accessibility 
+// Make sure that all the page contents are contained by landmarks
 class App extends React.Component {
   constructor(props) {
     super(props);
